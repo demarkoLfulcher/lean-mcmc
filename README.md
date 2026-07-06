@@ -1,1 +1,1 @@
-# lean-monte-carlo
+# lean-mcmc

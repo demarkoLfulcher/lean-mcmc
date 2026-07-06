@@ -1,5 +1,5 @@
 {
-  description = "lean-monte-carlo";
+  description = "lean-mcmc";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
