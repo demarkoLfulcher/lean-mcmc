@@ -1,0 +1,10 @@
+name = "mcmc"
+version = "0.1.0"
+defaultTargets = ["mcmc"]
+
+[[lean_lib]]
+name = "Mcmc"
+
+[[lean_exe]]
+name = "mcmc"
+root = "Main"
